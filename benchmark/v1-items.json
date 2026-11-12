@@ -1,0 +1,350 @@
+[
+ {
+  "id": "V1-01",
+  "what": "ServiceNow landing page",
+  "kind": "persistent",
+  "intervals": [
+   [
+    0.0,
+    30.4
+   ]
+  ],
+  "visible_s": 30.4
+ },
+ {
+  "id": "V1-02",
+  "what": "Presenter overlay with name banner",
+  "kind": "transient",
+  "intervals": [
+   [
+    5.2,
+    9.8
+   ]
+  ],
+  "visible_s": 4.6
+ },
+ {
+  "id": "V1-03",
+  "what": "Work Orders list",
+  "kind": "persistent",
+  "intervals": [
+   [
+    34.2,
+    35.2
+   ]
+  ],
+  "visible_s": 1.0
+ },
+ {
+  "id": "V1-04",
+  "what": "Work order WO0010003: related lists, Work Order Tasks (1) tab",
+  "kind": "persistent",
+  "intervals": [
+   [
+    40.0,
+    44.2
+   ]
+  ],
+  "visible_s": 4.2
+ },
+ {
+  "id": "V1-05",
+  "what": "New Work Order Task form, top: stage bar and Number, before the asset is chosen",
+  "kind": "persistent",
+  "intervals": [
+   [
+    47.4,
+    77.4
+   ]
+  ],
+  "visible_s": 30.0
+ },
+ {
+  "id": "V1-06",
+  "what": "Assets lookup popup window",
+  "kind": "transient",
+  "intervals": [
+   [
+    78.8,
+    80.0
+   ]
+  ],
+  "visible_s": 1.2
+ },
+ {
+  "id": "V1-07",
+  "what": "Asset P1000479 selected, Location auto-filled",
+  "kind": "persistent",
+  "intervals": [
+   [
+    84.2,
+    87.6
+   ],
+   [
+    91.4,
+    95.0
+   ]
+  ],
+  "visible_s": 7.0
+ },
+ {
+  "id": "V1-08",
+  "what": "Users lookup popup window (Abel Tuter)",
+  "kind": "transient",
+  "intervals": [
+   [
+    89.2,
+    90.2
+   ]
+  ],
+  "visible_s": 1.0
+ },
+ {
+  "id": "V1-09",
+  "what": "Opened for set to Abel Tuter",
+  "kind": "persistent",
+  "intervals": [
+   [
+    91.4,
+    95.0
+   ]
+  ],
+  "visible_s": 3.6
+ },
+ {
+  "id": "V1-10",
+  "what": "Location info popover (address details)",
+  "kind": "transient",
+  "intervals": [
+   [
+    95.0,
+    98.4
+   ]
+  ],
+  "visible_s": 3.4
+ },
+ {
+  "id": "V1-11",
+  "what": "Skills lookup popup window (Field Service)",
+  "kind": "transient",
+  "intervals": [
+   [
+    109.0,
+    111.6
+   ]
+  ],
+  "visible_s": 2.6
+ },
+ {
+  "id": "V1-12",
+  "what": "Skills set to Field Service",
+  "kind": "persistent",
+  "intervals": [
+   [
+    114.4,
+    123.2
+   ]
+  ],
+  "visible_s": 8.8
+ },
+ {
+  "id": "V1-13",
+  "what": "Short description: test",
+  "kind": "persistent",
+  "intervals": [
+   [
+    128.0,
+    145.4
+   ]
+  ],
+  "visible_s": 17.4
+ },
+ {
+  "id": "V1-14",
+  "what": "Dispatch group preview card (Group: name, hourly rate, Open Record)",
+  "kind": "transient",
+  "intervals": [
+   [
+    138.2,
+    139.6
+   ]
+  ],
+  "visible_s": 1.4
+ },
+ {
+  "id": "V1-15",
+  "what": "Assignment group lookup popup window (group hierarchy)",
+  "kind": "transient",
+  "intervals": [
+   [
+    146.0,
+    147.8
+   ]
+  ],
+  "visible_s": 1.8
+ },
+ {
+  "id": "V1-16",
+  "what": "Assignment group FSM set, Assigned to auto-filled with Aileen Mottern",
+  "kind": "persistent",
+  "intervals": [
+   [
+    153.2,
+    162.4
+   ]
+  ],
+  "visible_s": 9.2
+ },
+ {
+  "id": "V1-17",
+  "what": "Work Types lookup popup window (Break Fix, Install, Planned Maintenance)",
+  "kind": "transient",
+  "intervals": [
+   [
+    165.0,
+    166.0
+   ]
+  ],
+  "visible_s": 1.0
+ },
+ {
+  "id": "V1-18",
+  "what": "Work type set to Break Fix",
+  "kind": "persistent",
+  "intervals": [
+   [
+    166.4,
+    181.8
+   ]
+  ],
+  "visible_s": 15.4
+ },
+ {
+  "id": "V1-19",
+  "what": "Planned tab, empty: Window start/end, Scheduled start, Estimated end",
+  "kind": "persistent",
+  "intervals": [
+   [
+    183.2,
+    197.2
+   ]
+  ],
+  "visible_s": 14.0
+ },
+ {
+  "id": "V1-20",
+  "what": "Date/time picker open (July 2026 calendar with time fields)",
+  "kind": "transient",
+  "intervals": [
+   [
+    197.2,
+    199.2
+   ],
+   [
+    200.4,
+    203.8
+   ],
+   [
+    208.2,
+    209.4
+   ]
+  ],
+  "visible_s": 6.6
+ },
+ {
+  "id": "V1-21",
+  "what": "Planned tab filled: window 07-27 to 07-30, scheduled start 07-26 22:27:08, estimated end auto-filled 23:27:08",
+  "kind": "persistent",
+  "intervals": [
+   [
+    210.8,
+    215.4
+   ]
+  ],
+  "visible_s": 4.6
+ },
+ {
+  "id": "V1-22",
+  "what": "Actual tab filled: travel start, work start 07-27, work end 07-29",
+  "kind": "persistent",
+  "intervals": [
+   [
+    238.8,
+    262.6
+   ]
+  ],
+  "visible_s": 23.8
+ },
+ {
+  "id": "V1-23",
+  "what": "Actual travel duration set to 2 hours",
+  "kind": "persistent",
+  "intervals": [
+   [
+    245.2,
+    262.6
+   ]
+  ],
+  "visible_s": 17.4
+ },
+ {
+  "id": "V1-24",
+  "what": "Tooltip: Actual time it took to complete the work. Computed based on actual work start and actual work end",
+  "kind": "transient",
+  "intervals": [
+   [
+    253.6,
+    255.4
+   ]
+  ],
+  "visible_s": 1.8
+ },
+ {
+  "id": "V1-25",
+  "what": "Scheduling tab: preference Prioritize Rating, method Manual",
+  "kind": "persistent",
+  "intervals": [
+   [
+    264.2,
+    351.6
+   ]
+  ],
+  "visible_s": 87.4
+ },
+ {
+  "id": "V1-26",
+  "what": "Scheduling preference dropdown: Prioritize Rating, Prioritize ETA, Prioritize Nearest",
+  "kind": "transient",
+  "intervals": [
+   [
+    274.4,
+    280.4
+   ]
+  ],
+  "visible_s": 6.0
+ },
+ {
+  "id": "V1-27",
+  "what": "Scheduling method dropdown: None, Manual, Dynamic scheduling, Optimization, Intelligent task recommendation, Route optimization",
+  "kind": "transient",
+  "intervals": [
+   [
+    304.6,
+    307.4
+   ]
+  ],
+  "visible_s": 2.8
+ },
+ {
+  "id": "V1-28",
+  "what": "Finished form, back at top with header fields filled",
+  "kind": "persistent",
+  "intervals": [
+   [
+    354.0,
+    361.6
+   ]
+  ],
+  "visible_s": 7.6
+ }
+]

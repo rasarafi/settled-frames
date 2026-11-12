@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# benchmark working data: videos and tool outputs are downloaded/generated, never committed
+benchmark/videos/
+benchmark/runs/
+benchmark/work/
+*.mp4
+*.webm
+*.mkv
+.playwright-mcp/

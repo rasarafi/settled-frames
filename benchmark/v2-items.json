@@ -1,0 +1,306 @@
+[
+ {
+  "id": "V2-01",
+  "what": "Title card: Work Order Walkthrough",
+  "kind": "persistent",
+  "intervals": [
+   [
+    0.2,
+    2.0
+   ]
+  ],
+  "visible_s": 1.8
+ },
+ {
+  "id": "V2-02",
+  "what": "Bookable Resource Jesse Bucholz: characteristics grid (7 rows with ratings)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    2.0,
+    9.0
+   ]
+  ],
+  "visible_s": 7.0
+ },
+ {
+  "id": "V2-03",
+  "what": "Change area flyout: Service, Sales, Inventory, Resources, Settings, Training",
+  "kind": "transient",
+  "intervals": [
+   [
+    7.4,
+    9.0
+   ]
+  ],
+  "visible_s": 1.6
+ },
+ {
+  "id": "V2-04",
+  "what": "Field Service Administrator Dashboard: incident types by month chart",
+  "kind": "persistent",
+  "intervals": [
+   [
+    14.0,
+    16.8
+   ]
+  ],
+  "visible_s": 2.8
+ },
+ {
+  "id": "V2-05",
+  "what": "Unscheduled Work Orders list, default sort (00048 on top)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    23.6,
+    28.6
+   ]
+  ],
+  "visible_s": 5.0
+ },
+ {
+  "id": "V2-06",
+  "what": "Created On column menu: Sort Oldest to Newest, Sort Newest to Oldest, Filter by",
+  "kind": "transient",
+  "intervals": [
+   [
+    27.0,
+    28.6
+   ]
+  ],
+  "visible_s": 1.6
+ },
+ {
+  "id": "V2-07",
+  "what": "List sorted newest first (00346 Adventure Works, Amy Alberts on top)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    30.6,
+    36.4
+   ]
+  ],
+  "visible_s": 5.8
+ },
+ {
+  "id": "V2-08",
+  "what": "Tooltip with the full created time: 9/2/2020 11:29 AM",
+  "kind": "transient",
+  "intervals": [
+   [
+    30.6,
+    32.6
+   ]
+  ],
+  "visible_s": 2.0
+ },
+ {
+  "id": "V2-09",
+  "what": "Work order 00346 Summary: General and Customer Detail (accounts, status, contact, email)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    39.8,
+    47.6
+   ]
+  ],
+  "visible_s": 7.8
+ },
+ {
+  "id": "V2-10",
+  "what": "Primary Incident section: type Unexpected Reboot (full name readable), estimated duration 2 hours",
+  "kind": "persistent",
+  "intervals": [
+   [
+    53.2,
+    55.6
+   ],
+   [
+    59.2,
+    61.2
+   ],
+   [
+    70.8,
+    78.8
+   ]
+  ],
+  "visible_s": 12.4
+ },
+ {
+  "id": "V2-11",
+  "what": "Incidents card (Unexpected Reboot 00346) and Bookings: No data available",
+  "kind": "persistent",
+  "intervals": [
+   [
+    83.2,
+    123.8
+   ],
+   [
+    129.8,
+    135.0
+   ]
+  ],
+  "visible_s": 45.8
+ },
+ {
+  "id": "V2-12",
+  "what": "Products tab: AssemblyVirtuoso 2, New boot switch, $22,814.00, Estimated",
+  "kind": "persistent",
+  "intervals": [
+   [
+    137.6,
+    155.4
+   ],
+   [
+    278.4,
+    297.6
+   ]
+  ],
+  "visible_s": 37.0
+ },
+ {
+  "id": "V2-13",
+  "what": "Services tab: Inspect System Health, 2 hours, $400.00",
+  "kind": "persistent",
+  "intervals": [
+   [
+    157.4,
+    166.2
+   ]
+  ],
+  "visible_s": 8.8
+ },
+ {
+  "id": "V2-14",
+  "what": "Service Tasks tab: Read Codes, Diagnose Issue, Repair, Test and Validate with durations",
+  "kind": "persistent",
+  "intervals": [
+   [
+    167.0,
+    247.6
+   ],
+   [
+    275.8,
+    277.0
+   ]
+  ],
+  "visible_s": 81.8
+ },
+ {
+  "id": "V2-15",
+  "what": "Mark Complete dropdown: Mark Complete, Save As Complete",
+  "kind": "transient",
+  "intervals": [
+   [
+    202.0,
+    204.0
+   ],
+   [
+    215.8,
+    218.0
+   ]
+  ],
+  "visible_s": 4.2
+ },
+ {
+  "id": "V2-16",
+  "what": "All four service tasks selected",
+  "kind": "persistent",
+  "intervals": [
+   [
+    209.2,
+    218.0
+   ]
+  ],
+  "visible_s": 8.8
+ },
+ {
+  "id": "V2-17",
+  "what": "Related flyout: Details and Common lists (Characteristics, Requirements, Time Entries...)",
+  "kind": "transient",
+  "intervals": [
+   [
+    248.0,
+    251.6
+   ]
+  ],
+  "visible_s": 3.6
+ },
+ {
+  "id": "V2-18",
+  "what": "Characteristics tab: 00346, Assembly Diagnosis, Superstar",
+  "kind": "persistent",
+  "intervals": [
+   [
+    253.8,
+    272.2
+   ],
+   [
+    298.0,
+    336.4
+   ]
+  ],
+  "visible_s": 56.8
+ },
+ {
+  "id": "V2-19",
+  "what": "Tooltip: Add New Work Order Product / Add a related Work Order Product to this record",
+  "kind": "transient",
+  "intervals": [
+   [
+    288.2,
+    291.6
+   ]
+  ],
+  "visible_s": 3.4
+ },
+ {
+  "id": "V2-20",
+  "what": "Tooltip: Book Resource / Open schedule board to book a resource",
+  "kind": "transient",
+  "intervals": [
+   [
+    333.8,
+    336.4
+   ]
+  ],
+  "visible_s": 2.6
+ },
+ {
+  "id": "V2-21",
+  "what": "Schedule Assistant filter with chip Assembly Diagnosis (Superstar) and 4 matching resources",
+  "kind": "persistent",
+  "intervals": [
+   [
+    343.0,
+    438.6
+   ]
+  ],
+  "visible_s": 95.6
+ },
+ {
+  "id": "V2-22",
+  "what": "Search results after clearing the filter: 11+ resources (Jamie Reding, Jeff Spehn...)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    443.2,
+    464.4
+   ]
+  ],
+  "visible_s": 21.2
+ },
+ {
+  "id": "V2-23",
+  "what": "End card: Learn more about Dynamics 365 Field Service",
+  "kind": "persistent",
+  "intervals": [
+   [
+    464.4,
+    467.4
+   ]
+  ],
+  "visible_s": 3.0
+ }
+]

@@ -1,0 +1,444 @@
+{
+ "v1-settled-default": {
+  "frames": 201,
+  "shown": 28,
+  "of": 28,
+  "transient": 12,
+  "transient_of": 12,
+  "missed": [],
+  "unchecked": [],
+  "secs": 70.1
+ },
+ "v1-settled-nofine": {
+  "frames": 155,
+  "shown": 28,
+  "of": 28,
+  "transient": 12,
+  "transient_of": 12,
+  "missed": [],
+  "unchecked": [],
+  "secs": 80.3
+ },
+ "v1-crv-default": {
+  "frames": 81,
+  "shown": 25,
+  "of": 28,
+  "transient": 10,
+  "transient_of": 12,
+  "missed": [
+   "V1-14",
+   "V1-17",
+   "V1-21"
+  ],
+  "unchecked": [],
+  "secs": 98.9
+ },
+ "v1-crv-tuned": {
+  "frames": 101,
+  "shown": 26,
+  "of": 28,
+  "transient": 11,
+  "transient_of": 12,
+  "missed": [
+   "V1-17",
+   "V1-21"
+  ],
+  "unchecked": [],
+  "secs": 117.7
+ },
+ "v1-crv-max": {
+  "frames": 147,
+  "shown": 27,
+  "of": 28,
+  "transient": 12,
+  "transient_of": 12,
+  "missed": [
+   "V1-21"
+  ],
+  "unchecked": [],
+  "secs": 139.5
+ },
+ "v1-crv-fine": {
+  "frames": 162,
+  "shown": 28,
+  "of": 28,
+  "transient": 12,
+  "transient_of": 12,
+  "missed": [],
+  "unchecked": [],
+  "secs": 190.9
+ },
+ "v1-cv-default": {
+  "frames": 28,
+  "shown": 16,
+  "of": 28,
+  "transient": 3,
+  "transient_of": 12,
+  "missed": [
+   "V1-06",
+   "V1-08",
+   "V1-11",
+   "V1-13",
+   "V1-14",
+   "V1-15",
+   "V1-17",
+   "V1-21",
+   "V1-23",
+   "V1-24",
+   "V1-26",
+   "V1-27"
+  ],
+  "unchecked": [],
+  "secs": 12.8
+ },
+ "v1-cv-tuned": {
+  "frames": 28,
+  "shown": 16,
+  "of": 28,
+  "transient": 3,
+  "transient_of": 12,
+  "missed": [
+   "V1-06",
+   "V1-08",
+   "V1-11",
+   "V1-13",
+   "V1-14",
+   "V1-15",
+   "V1-17",
+   "V1-21",
+   "V1-23",
+   "V1-24",
+   "V1-26",
+   "V1-27"
+  ],
+  "unchecked": [],
+  "secs": 13.5
+ },
+ "v1-cv-2fps": {
+  "frames": 74,
+  "shown": 25,
+  "of": 28,
+  "transient": 9,
+  "transient_of": 12,
+  "missed": [
+   "V1-15",
+   "V1-26",
+   "V1-27"
+  ],
+  "unchecked": [],
+  "secs": 27.4
+ },
+ "v2-settled-default": {
+  "frames": 167,
+  "shown": 23,
+  "of": 23,
+  "transient": 7,
+  "transient_of": 7,
+  "missed": [],
+  "unchecked": [],
+  "secs": 106.2
+ },
+ "v2-settled-nofine": {
+  "frames": 139,
+  "shown": 21,
+  "of": 23,
+  "transient": 6,
+  "transient_of": 7,
+  "missed": [
+   "V2-16",
+   "V2-20"
+  ],
+  "unchecked": [],
+  "secs": 134.6
+ },
+ "v2-crv-default": {
+  "frames": 21,
+  "shown": 11,
+  "of": 23,
+  "transient": 0,
+  "transient_of": 7,
+  "missed": [
+   "V2-03",
+   "V2-04",
+   "V2-05",
+   "V2-06",
+   "V2-07",
+   "V2-08",
+   "V2-10",
+   "V2-13",
+   "V2-15",
+   "V2-17",
+   "V2-19",
+   "V2-20"
+  ],
+  "unchecked": [],
+  "secs": 121.3
+ },
+ "v2-crv-tuned": {
+  "frames": 28,
+  "shown": 14,
+  "of": 23,
+  "transient": 0,
+  "transient_of": 7,
+  "missed": [
+   "V2-03",
+   "V2-05",
+   "V2-06",
+   "V2-08",
+   "V2-13",
+   "V2-15",
+   "V2-17",
+   "V2-19",
+   "V2-20"
+  ],
+  "unchecked": [],
+  "secs": 151.7
+ },
+ "v2-crv-max": {
+  "frames": 39,
+  "shown": 14,
+  "of": 23,
+  "transient": 0,
+  "transient_of": 7,
+  "missed": [
+   "V2-03",
+   "V2-06",
+   "V2-07",
+   "V2-08",
+   "V2-13",
+   "V2-15",
+   "V2-17",
+   "V2-19",
+   "V2-20"
+  ],
+  "unchecked": [],
+  "secs": 181.9
+ },
+ "v2-crv-fine": {
+  "frames": 49,
+  "shown": 16,
+  "of": 23,
+  "transient": 1,
+  "transient_of": 7,
+  "missed": [
+   "V2-03",
+   "V2-06",
+   "V2-07",
+   "V2-08",
+   "V2-15",
+   "V2-19",
+   "V2-20"
+  ],
+  "unchecked": [],
+  "secs": 192.7
+ },
+ "v2-cv-default": {
+  "frames": 21,
+  "shown": 13,
+  "of": 23,
+  "transient": 0,
+  "transient_of": 7,
+  "missed": [
+   "V2-01",
+   "V2-03",
+   "V2-06",
+   "V2-08",
+   "V2-13",
+   "V2-15",
+   "V2-17",
+   "V2-19",
+   "V2-20",
+   "V2-23"
+  ],
+  "unchecked": [],
+  "secs": 19.0
+ },
+ "v2-cv-tuned": {
+  "frames": 21,
+  "shown": 13,
+  "of": 23,
+  "transient": 0,
+  "transient_of": 7,
+  "missed": [
+   "V2-01",
+   "V2-03",
+   "V2-06",
+   "V2-08",
+   "V2-13",
+   "V2-15",
+   "V2-17",
+   "V2-19",
+   "V2-20",
+   "V2-23"
+  ],
+  "unchecked": [],
+  "secs": 29.2
+ },
+ "v2-cv-2fps": {
+  "frames": 47,
+  "shown": 16,
+  "of": 23,
+  "transient": 2,
+  "transient_of": 7,
+  "missed": [
+   "V2-01",
+   "V2-06",
+   "V2-10",
+   "V2-15",
+   "V2-17",
+   "V2-19",
+   "V2-20"
+  ],
+  "unchecked": [],
+  "secs": 36.5
+ },
+ "v3-settled-default": {
+  "frames": 340,
+  "shown": 22,
+  "of": 22,
+  "transient": 6,
+  "transient_of": 6,
+  "missed": [],
+  "unchecked": [],
+  "secs": 46.2
+ },
+ "v3-settled-nofine": {
+  "frames": 336,
+  "shown": 22,
+  "of": 22,
+  "transient": 6,
+  "transient_of": 6,
+  "missed": [],
+  "unchecked": [],
+  "secs": 57.2
+ },
+ "v3-settled-ignore": {
+  "frames": 87,
+  "shown": 22,
+  "of": 22,
+  "transient": 6,
+  "transient_of": 6,
+  "missed": [],
+  "unchecked": [],
+  "secs": 56.7
+ },
+ "v3-crv-default": {
+  "frames": 36,
+  "shown": 12,
+  "of": 22,
+  "transient": 3,
+  "transient_of": 6,
+  "missed": [
+   "V3-04",
+   "V3-05",
+   "V3-06",
+   "V3-08",
+   "V3-09",
+   "V3-10",
+   "V3-14",
+   "V3-17",
+   "V3-18",
+   "V3-22"
+  ],
+  "unchecked": [],
+  "secs": 113.8
+ },
+ "v3-crv-tuned": {
+  "frames": 40,
+  "shown": 14,
+  "of": 22,
+  "transient": 3,
+  "transient_of": 6,
+  "missed": [
+   "V3-04",
+   "V3-05",
+   "V3-08",
+   "V3-09",
+   "V3-14",
+   "V3-17",
+   "V3-18",
+   "V3-22"
+  ],
+  "unchecked": [],
+  "secs": 118.9
+ },
+ "v3-crv-max": {
+  "frames": 64,
+  "shown": 17,
+  "of": 22,
+  "transient": 4,
+  "transient_of": 6,
+  "missed": [
+   "V3-04",
+   "V3-05",
+   "V3-08",
+   "V3-17",
+   "V3-18"
+  ],
+  "unchecked": [],
+  "secs": 130.5
+ },
+ "v3-crv-fine": {
+  "frames": 70,
+  "shown": 18,
+  "of": 22,
+  "transient": 4,
+  "transient_of": 6,
+  "missed": [
+   "V3-07",
+   "V3-08",
+   "V3-18",
+   "V3-22"
+  ],
+  "unchecked": [],
+  "secs": 128.3
+ },
+ "v3-cv-default": {
+  "frames": 27,
+  "shown": 17,
+  "of": 22,
+  "transient": 3,
+  "transient_of": 6,
+  "missed": [
+   "V3-04",
+   "V3-05",
+   "V3-07",
+   "V3-09",
+   "V3-14"
+  ],
+  "unchecked": [],
+  "secs": 14.8
+ },
+ "v3-cv-tuned": {
+  "frames": 27,
+  "shown": 17,
+  "of": 22,
+  "transient": 3,
+  "transient_of": 6,
+  "missed": [
+   "V3-04",
+   "V3-05",
+   "V3-07",
+   "V3-09",
+   "V3-14"
+  ],
+  "unchecked": [],
+  "secs": 18.9
+ },
+ "v3-cv-2fps": {
+  "frames": 54,
+  "shown": 17,
+  "of": 22,
+  "transient": 2,
+  "transient_of": 6,
+  "missed": [
+   "V3-02",
+   "V3-07",
+   "V3-08",
+   "V3-09",
+   "V3-14"
+  ],
+  "unchecked": [],
+  "secs": 21.4
+ }
+}

@@ -1,0 +1,274 @@
+[
+ {
+  "id": "V3-01",
+  "what": "ERPNext Home workspace (Reports & Masters)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    0.0,
+    69.4
+   ]
+  ],
+  "visible_s": 69.4
+ },
+ {
+  "id": "V3-02",
+  "what": "Search bar suggestions while typing 'sales order', including New Sales Order",
+  "kind": "transient",
+  "intervals": [
+   [
+    70.8,
+    74.6
+   ]
+  ],
+  "visible_s": 3.8
+ },
+ {
+  "id": "V3-03",
+  "what": "New Sales Order form, loaded and still empty",
+  "kind": "persistent",
+  "intervals": [
+   [
+    76.4,
+    88.8
+   ]
+  ],
+  "visible_s": 12.4
+ },
+ {
+  "id": "V3-04",
+  "what": "Customer set to Yatharth Enterprises",
+  "kind": "persistent",
+  "intervals": [
+   [
+    92.8,
+    94.6
+   ],
+   [
+    98.8,
+    101.6
+   ]
+  ],
+  "visible_s": 4.6
+ },
+ {
+  "id": "V3-05",
+  "what": "Delivery Date picker open (May, 2024)",
+  "kind": "transient",
+  "intervals": [
+   [
+    95.6,
+    98.4
+   ]
+  ],
+  "visible_s": 2.8
+ },
+ {
+  "id": "V3-06",
+  "what": "Delivery Date filled: 31-05-2024",
+  "kind": "persistent",
+  "intervals": [
+   [
+    98.8,
+    101.6
+   ]
+  ],
+  "visible_s": 2.8
+ },
+ {
+  "id": "V3-07",
+  "what": "Item Code suggestions before the list filters: Paint Green, Resins, Pigments",
+  "kind": "transient",
+  "intervals": [
+   [
+    104.6,
+    108.6
+   ]
+  ],
+  "visible_s": 4.0
+ },
+ {
+  "id": "V3-08",
+  "what": "Item Code suggestions for 'metal table': MT-001 Metal Table, MS-001 Metal Sheet, Bench Grinder",
+  "kind": "transient",
+  "intervals": [
+   [
+    108.6,
+    110.8
+   ]
+  ],
+  "visible_s": 2.2
+ },
+ {
+  "id": "V3-09",
+  "what": "Item row MT-001 before the quantity change: total quantity 1, total 3,500.00",
+  "kind": "persistent",
+  "intervals": [
+   [
+    111.2,
+    114.2
+   ]
+  ],
+  "visible_s": 3.0
+ },
+ {
+  "id": "V3-10",
+  "what": "Quantity 15, total 52,500.00",
+  "kind": "persistent",
+  "intervals": [
+   [
+    114.2,
+    129.6
+   ]
+  ],
+  "visible_s": 15.4
+ },
+ {
+  "id": "V3-11",
+  "what": "Tax Category dropdown: In-State, Out-State, Registered Composition, Reverse Charge In-State, Reverse Charge Out-State",
+  "kind": "transient",
+  "intervals": [
+   [
+    132.4,
+    137.8
+   ]
+  ],
+  "visible_s": 5.4
+ },
+ {
+  "id": "V3-12",
+  "what": "Tax rows filled: SGST and CGST at 9",
+  "kind": "persistent",
+  "intervals": [
+   [
+    139.0,
+    145.6
+   ]
+  ],
+  "visible_s": 6.6
+ },
+ {
+  "id": "V3-13",
+  "what": "Totals section with taxes and grand total",
+  "kind": "persistent",
+  "intervals": [
+   [
+    140.8,
+    145.6
+   ],
+   [
+    150.4,
+    169.2
+   ]
+  ],
+  "visible_s": 23.6
+ },
+ {
+  "id": "V3-14",
+  "what": "Item hover card: Metal Table, MT-001, Item Group Products",
+  "kind": "transient",
+  "intervals": [
+   [
+    148.8,
+    150.0
+   ]
+  ],
+  "visible_s": 1.2
+ },
+ {
+  "id": "V3-15",
+  "what": "Additional Discount fields",
+  "kind": "persistent",
+  "intervals": [
+   [
+    169.4,
+    172.6
+   ]
+  ],
+  "visible_s": 3.2
+ },
+ {
+  "id": "V3-16",
+  "what": "Address & Contact tab: billing address",
+  "kind": "persistent",
+  "intervals": [
+   [
+    175.0,
+    184.2
+   ]
+  ],
+  "visible_s": 9.2
+ },
+ {
+  "id": "V3-17",
+  "what": "Terms tab",
+  "kind": "persistent",
+  "intervals": [
+   [
+    184.4,
+    190.6
+   ]
+  ],
+  "visible_s": 6.2
+ },
+ {
+  "id": "V3-18",
+  "what": "Connections tab",
+  "kind": "persistent",
+  "intervals": [
+   [
+    190.8,
+    192.4
+   ]
+  ],
+  "visible_s": 1.6
+ },
+ {
+  "id": "V3-19",
+  "what": "Saved as Draft: SAL-ORD-2024-00027 with Submit button",
+  "kind": "persistent",
+  "intervals": [
+   [
+    199.0,
+    201.4
+   ]
+  ],
+  "visible_s": 2.4
+ },
+ {
+  "id": "V3-20",
+  "what": "Submitted: status To Deliver and Bill",
+  "kind": "persistent",
+  "intervals": [
+   [
+    204.8,
+    208.8
+   ]
+  ],
+  "visible_s": 4.0
+ },
+ {
+  "id": "V3-21",
+  "what": "Print view of the sales order, rendered (item row, rate 3,500.00, amount 52,500.00)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    213.0,
+    215.0
+   ]
+  ],
+  "visible_s": 2.0
+ },
+ {
+  "id": "V3-22",
+  "what": "Bottom of the print view (company address, loyalty points)",
+  "kind": "persistent",
+  "intervals": [
+   [
+    217.0,
+    219.4
+   ]
+  ],
+  "visible_s": 2.4
+ }
+]

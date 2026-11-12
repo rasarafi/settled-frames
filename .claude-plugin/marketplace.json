@@ -1,0 +1,14 @@
+{
+  "name": "settled-frames",
+  "description": "Marketplace for the settled-frames plugin (watch-video skill)",
+  "owner": { "name": "rasarafi" },
+  "plugins": [
+    {
+      "name": "settled-frames",
+      "description": "watch-video skill for Claude Code: watches screen recordings and demos without missing what loads late",
+      "version": "0.1.0",
+      "source": "./",
+      "author": { "name": "rasarafi" }
+    }
+  ]
+}

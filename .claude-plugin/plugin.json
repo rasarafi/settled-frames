@@ -1,0 +1,10 @@
+{
+  "name": "settled-frames",
+  "description": "watch-video skill for Claude Code: watches screen recordings and demos without missing what loads late",
+  "version": "0.1.0",
+  "author": { "name": "rasarafi" },
+  "homepage": "https://github.com/rasarafi/settled-frames",
+  "repository": "https://github.com/rasarafi/settled-frames",
+  "license": "MIT",
+  "keywords": ["video", "screencast", "screen-recording", "whisper", "skills"]
+}
